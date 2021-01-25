@@ -1,4 +1,4 @@
-# VBA_HW
+
 
 Create a VBA script that will read the given Excel sheet on stock info & output the following information
 
