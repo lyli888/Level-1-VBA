@@ -1,6 +1,6 @@
 # VBA_HW
 
-Create a VBA script that will read the given Excel sheet & output the following information
+Create a VBA script that will read the given Excel sheet on stock info & output the following information
 
   * The ticker symbol.
 
