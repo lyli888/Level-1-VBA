@@ -1,6 +1,6 @@
 
 
-Create a VBA script that will read the Excel sheets tracking multi-year stock prices & output the following information:
+Create a VBA script that will read the Excel sheets tracking real-life multi-year stock prices & output the following information:
 
   * The ticker symbol.
 
